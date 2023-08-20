@@ -1,5 +1,6 @@
 class ImageResource {
   static String justAbodeLogo = "assets/images/png/logo.png";
+
   // png
   static String splashBackground = "assets/images/png/splash_bg.png";
   static String logoIcon = "assets/images/png/logo_icon.png";
